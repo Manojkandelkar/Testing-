@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25" started-at="2024-08-18T19:09:48Z" finished-at="2024-08-18T19:09:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25" started-at="2024-08-18T19:09:48Z" finished-at="2024-08-18T19:09:48Z">
+      <class name="demotestng.BeforeMethodAfterMethod">
+        <test-method status="PASS" signature="browserOpen()[pri:0, instance:demotestng.BeforeMethodAfterMethod@27efef64]" name="browserOpen" is-config="true" duration-ms="7" started-at="2024-08-18T19:09:48Z" finished-at="2024-08-18T19:09:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserOpen -->
+        <test-method status="PASS" signature="login()[pri:0, instance:demotestng.BeforeMethodAfterMethod@27efef64]" name="login" is-config="true" duration-ms="0" started-at="2024-08-18T19:09:48Z" finished-at="2024-08-18T19:09:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="verifyLoginToApp()[pri:1, instance:demotestng.BeforeMethodAfterMethod@27efef64]" name="verifyLoginToApp" duration-ms="3" started-at="2024-08-18T19:09:48Z" finished-at="2024-08-18T19:09:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginToApp -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:demotestng.BeforeMethodAfterMethod@27efef64]" name="logout" is-config="true" duration-ms="0" started-at="2024-08-18T19:09:48Z" finished-at="2024-08-18T19:09:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="login()[pri:0, instance:demotestng.BeforeMethodAfterMethod@27efef64]" name="login" is-config="true" duration-ms="1" started-at="2024-08-18T19:09:48Z" finished-at="2024-08-18T19:09:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="urlEntered()[pri:2, instance:demotestng.BeforeMethodAfterMethod@27efef64]" name="urlEntered" duration-ms="1" started-at="2024-08-18T19:09:48Z" finished-at="2024-08-18T19:09:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlEntered -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:demotestng.BeforeMethodAfterMethod@27efef64]" name="logout" is-config="true" duration-ms="1" started-at="2024-08-18T19:09:48Z" finished-at="2024-08-18T19:09:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:demotestng.BeforeMethodAfterMethod@27efef64]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2024-08-18T19:09:48Z" finished-at="2024-08-18T19:09:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- demotestng.BeforeMethodAfterMethod -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
